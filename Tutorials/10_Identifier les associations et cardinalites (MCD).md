@@ -57,6 +57,5 @@ COMMANDE -----(1,N)----- CONTENIR -----(0,N)----- PRODUIT
 
 ## Schéma du MCD
 
-```
 ![les associations et cartidnalites](/10_Identify the associations and cardinalities(MCD).png)
-```
+
