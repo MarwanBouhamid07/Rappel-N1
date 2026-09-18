@@ -1,6 +1,7 @@
 let videos = [
     { title: "song", duration: 2, views: 20000 },
-    { title: "challenge", duration: 7, views: 15000 },
+    { title: "challenge", duration: 5, views: 15000 },
+    { title: "challenge", duration: 3, views: 17000 },
     { title: "race", duration: 11, views: 12000 },
     { title: "podcast", duration: 60, views: 10000 },
     { title: "DOM manipulation", duration: 4, views: 1500 },
